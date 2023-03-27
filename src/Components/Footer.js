@@ -4,6 +4,7 @@ import '../style.css'
 function Footer() {
     return (
         <div>
+            
             <div className="container-fluid footer">
                 <div className="row pb-2 mr-0">
                     <div className="col-md-2">
@@ -84,6 +85,7 @@ function Footer() {
                                 </div>
                             </div>
                         </div>
+
                         <div className="mb-3">
                             <div className="widget widget-links widget-light pb-2 mb-4">
                                 <h3 className="widget-title text-light">Lab Tests</h3>
@@ -216,28 +218,28 @@ function Footer() {
                         </div>
 
                         <ul class="widget-list d-flex flex-wrap justify-content-md-start">
-                            <li class="widget-list-item mr-4 mb-3"><a class="widget-list-link" href="https://www.meditech.pk/privacy">Privacy Policy</a></li>
-                            <li class="widget-list-item mr-4 mb-3"><a class="widget-list-link" href="https://www.meditech.pk/delivery-policy">Delivery Policy</a></li>
-                            <li class="widget-list-item mr-4 mb-3"><a class="widget-list-link" href="https://www.meditech.pk/refunds-privacy">Refund Policy</a></li>
-                            <li class="widget-list-item mr-4 mb-3"><a class="widget-list-link" href="https://www.meditech.pk/payment-privacy">Payment Terms</a></li>
-                            <li class="widget-list-item mr-4 mb-3"><a class="widget-list-link" href="https://www.meditech.pk/cancellation-policy">Cancellations Policy</a></li>
-                            <li class="widget-list-item mr-4 mb-3"><a class="widget-list-link" href="https://www.meditech.pk/termsofuse-privacy">Terms of Use</a></li>
-                            <li class="widget-list-item mr-4 mb-3"><a class="widget-list-link" href="https://www.meditech.pk/faqs-policy">FAQs</a></li>
-                            <li class="widget-list-item mr-4 mb-3"><a class="widget-list-link" href="https://www.meditech.pk/about">About Us</a></li>
-                            <li class="widget-list-item mr-4 mb-3"><a class="widget-list-link" href="https://www.meditech.pk/contact">Contact Us</a></li>
-                            <li class="widget-list-item mr-4 mb-3"><a class="widget-list-link" href="https://www.meditech.pk/doctors">Doctors</a></li>
-                            <li class="widget-list-item mr-4 mb-3"><a class="widget-list-link" href="https://www.meditech.pk/partnerships">Partnerships</a></li>
-                            <li class="widget-list-item mr-4 mb-3"><a class="widget-list-link" href="https://www.meditech.pk/careers">Careers</a></li>
-                            <li class="widget-list-item mr-4 mb-3"><a class="widget-list-link" href="https://www.meditech.pk/help-me-marham">Help me Marham</a></li>
-                            <li class="widget-list-item mr-4 mb-3"><a class="widget-list-link" href="https://www.meditech.pk/invite-friend">Invite Friends &amp; Family</a></li>
+                            <li class="widget-list-item mr-4 mb-3 footer-content"><a class="widget-list-link" href="https://www.meditech.pk/privacy">Privacy Policy</a></li>
+                            <li class="widget-list-item mr-4 mb-3 footer-content"><a class="widget-list-link" href="https://www.meditech.pk/delivery-policy">Delivery Policy</a></li>
+                            <li class="widget-list-item mr-4 mb-3 footer-content"><a class="widget-list-link" href="https://www.meditech.pk/refunds-privacy">Refund Policy</a></li>
+                            <li class="widget-list-item mr-4 mb-3 footer-content"><a class="widget-list-link" href="https://www.meditech.pk/payment-privacy">Payment Terms</a></li>
+                            <li class="widget-list-item mr-4 mb-3 footer-content"><a class="widget-list-link" href="https://www.meditech.pk/cancellation-policy">Cancellations Policy</a></li>
+                            <li class="widget-list-item mr-4 mb-3 footer-content"><a class="widget-list-link" href="https://www.meditech.pk/termsofuse-privacy">Terms of Use</a></li>
+                            <li class="widget-list-item mr-4 mb-3 footer-content"><a class="widget-list-link" href="https://www.meditech.pk/faqs-policy">FAQs</a></li>
+                            <li class="widget-list-item mr-4 mb-3 footer-content"><a class="widget-list-link" href="https://www.meditech.pk/about">About Us</a></li>
+                            <li class="widget-list-item mr-4 mb-3 footer-content"><a class="widget-list-link" href="https://www.meditech.pk/contact">Contact Us</a></li>
+                            <li class="widget-list-item mr-4 mb-3 footer-content"><a class="widget-list-link" href="https://www.meditech.pk/doctors">Doctors</a></li>
+                            <li class="widget-list-item mr-4 mb-3 footer-content"><a class="widget-list-link" href="https://www.meditech.pk/partnerships">Partnerships</a></li>
+                            <li class="widget-list-item mr-4 mb-3 footer-content"><a class="widget-list-link" href="https://www.meditech.pk/careers">Careers</a></li>
+                            <li class="widget-list-item mr-4 mb-3 footer-content"><a class="widget-list-link" href="https://www.meditech.pk/help-me-marham">Help me Marham</a></li>
+                            <li class="widget-list-item mr-4 mb-3 footer-content"><a class="widget-list-link" href="https://www.meditech.pk/invite-friend">Invite Friends &amp; Family</a></li>
 
 
                         </ul>
                     </div>
                 </div>
-                <div style={{textAlignLast: "center"}} class="pb-4 pl-3 font-size-xs text-light text-md-left">
+                <div style={{ textAlignLast: "center" }} class="pb-4 pl-3 font-size-xs text-light text-md-left">
                     © Copyright @ 2023-2024 MediTech Healthcare Pvt. Ltd. - All Rights Reserved
-                 </div>
+                </div>
             </div>
         </div>
 
