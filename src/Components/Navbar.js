@@ -95,7 +95,7 @@ function Navbar() {
   ];
   return (
     <div>
-      <nav className="navbar bg-success navbar-expand-lg">
+      <nav className="navbar navbar-expand-lg">
         <div className="container-fluid">
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
@@ -135,7 +135,7 @@ function Navbar() {
                 >
                   <a href="/" onClick={(e) => e.preventDefault()}>
                     <Space className="space">
-                      Lab Tests<DownOutlined />
+                      Lab Tests <DownOutlined />
                     </Space>
                   </a>
                 </Dropdown>
@@ -154,17 +154,14 @@ function Navbar() {
               >
                 <span className="navbar-toggler-icon"></span>
               </button>
-              <li className="nav-item">
-                <a href="/">Health Blogs </a>
-              </li>
-              <li className="nav-item">
-                <a href="/">Health Blogs </a>
-              </li>
-            <li className="d-none d-xl-block phone-btn nav-item"><a class="btn btn-light text-black" href="tel:+4520663691">20 66 36 91</a></li>
+              <li className="nav-item"><a href="/" className="blogs">Health Blogs </a></li>
+              <li className="d-none d-xl-block phone-btn nav-item"><a class="btn btn-outline-success btn-block" href="/login">Login/Signup</a></li>
+              <li className="d-none d-xl-block phone-btn nav-item"><a class="btn btn-light btn-block text-black" href="tel:+4520663691">20 66 36 91</a></li>
             </ul>
           </div>
         </div>
       </nav>
+      <hr/>
     </div>
   );
 }
