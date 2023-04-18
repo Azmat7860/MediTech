@@ -12,7 +12,6 @@ import Partner from './pages/Partner';
 import Footer from './Components/Footer';
 import CallToAction from './Components/CallToAction';
 
-
 function App() {
   return (
     <div className="App">
@@ -28,8 +27,7 @@ function App() {
       <Route path="/login" element={<Login/>}/>
       <Route path="/register" element={<Register/>}/>
       </Routes>
-      <Footer/>
-        
+      <Footer />
     </div>
   );
 }
