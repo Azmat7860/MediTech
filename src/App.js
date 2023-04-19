@@ -11,8 +11,11 @@ import Testimonial from './pages/Testimonial';
 import Partner from './pages/Partner';
 import Footer from './Components/Footer';
 import CallToAction from './Components/CallToAction';
+import Services from './Components/Services';
+
 
 function App() {
+  
   return (
     <div className="App">
       {/* <div id="preloader"></div>  */}
@@ -27,6 +30,7 @@ function App() {
       <Route path="/login" element={<Login/>}/>
       <Route path="/register" element={<Register/>}/>
       </Routes>
+      <Services/>
       <Footer />
     </div>
   );

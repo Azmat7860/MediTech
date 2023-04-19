@@ -1,9 +1,8 @@
 import React from "react";
 import "../css/style.css";
-// import {nav} from '../js/main.js'
 
 function Header() {
-  // nav();
+
   return (
    
     <header id="header" className="fixed-top d-flex align-items-center header-transparent header-scrolled">
