@@ -187,7 +187,7 @@ function Footer() {
                 </ul>
               </div>
 
-              <div  className="col-lg-3 col-md-6 footer-contact">
+              <div  className="col-lg-3 col-md-6 footer-contact text-white">
                 <h4>Contact Us</h4>
                 <p>
                   A108 Adam Street <br />
@@ -205,17 +205,17 @@ function Footer() {
         </div>
 
         <div  className="container">
-          <div  className="copyright">
+          <div  className="copyright text-white">
             &copy; Copyright <strong>MediTech</strong>. All Rights Reserved
           </div>
-          <div  className="credits">
+          <div  className="credits pb-3">
             Designed by 
             <a href="/" className="text-white">
-              Azmat
+              &nbsp;Azmat
             </a> 
-            & 
+            &nbsp;& 
             <a href="/" className="text-white">
-              Ali
+            &nbsp;Ali
             </a>
           </div>
         </div>

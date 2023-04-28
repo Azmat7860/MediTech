@@ -12,6 +12,8 @@ import Partner from './pages/Partner';
 import Footer from './Components/Footer';
 import CallToAction from './Components/CallToAction';
 import Services from './Components/Services';
+import TopDisease from './pages/TopDisease';
+import TopSpecialist from './pages/TopSpecialist';
 
 
 function App() {
@@ -21,6 +23,8 @@ function App() {
       {/* <div id="preloader"></div>  */}
       <Navbar/>
       <Home/>
+      <TopSpecialist/>
+      <TopDisease/>
       <MyCarousel/>
       <BookingSteps/>
       <Testimonial/>
