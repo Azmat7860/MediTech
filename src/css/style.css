@@ -353,13 +353,13 @@ h6 {
   background-color: #03490c !important;
 }
 
-.btn-signup-login{
+.btn-signup-login {
   border-radius: 5px;
   width: fit-content;
   border: 1px solid green;
 }
 
-.btn-phone{
+.btn-phone {
   border-radius: 5px;
   margin-left: 10px;
   width: fit-content;
@@ -367,7 +367,7 @@ h6 {
   background-color: #098141;
 }
 
-.btn-phone:hover{
+.btn-phone:hover {
   opacity: .75;
 }
 
@@ -583,6 +583,41 @@ small,
   display: flex;
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
+}
+
+.bg-white {
+  background-color: #fff !important;
+}
+
+@media screen and (min-width: 850px) {
+  .justify-content {
+    justify-content: center;
+  }
+}
+
+.box-shadow-sm {
+  box-shadow: 0 .125rem .3rem -.0625rem rgba(0, 0, 0, .03), 0 .275rem .75rem -.0625rem rgba(0, 0, 0, .06) !important;
+}
+
+.box-shadow-sm {
+  box-shadow: 0 0.125rem 0.3rem -0.0625rem rgba(0, 0, 0, 0.03), 0 0.275rem 0.75rem -0.0625rem rgba(0, 0, 0, 0.06) !important;
+}
+
+@media (min-width: 1280px) {
+
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl {
+    max-width: 1260px;
+  }
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #c02942 !important;
+  border-color: #c02942 !important;
+  box-shadow: none;
 }
 
 .doctors-carousel {
@@ -1020,6 +1055,7 @@ small,
   font-weight: 700;
   letter-spacing: 3px;
   border-left: 4px solid #18d26e;
+  color: #fff;
 }
 
 #footer .footer-top .footer-info p {

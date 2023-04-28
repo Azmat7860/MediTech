@@ -223,71 +223,71 @@ function Services() {
               </div>
 
               <div className="col-lg-3 col-md-6 services-top-services">
-                <h4>Hospitals</h4>
+                <h4>Medical Stores</h4>
                 <ul>
                   <li>
                     <a href="https://www.marham.pk/hospitals/lahore">
-                      All Hospitals in Lahore{" "}
+                      All Medical Stores in Lahore{" "}
                     </a>
                   </li>
                   <li>
                     <a href="https://www.marham.pk/hospitals/karachi">
-                      All Hospitals in Karachi{" "}
+                      All Medical Stores in Karachi{" "}
                     </a>
                   </li>
                   <li>
                     <a href="https://www.marham.pk/hospitals/islamabad">
-                      All Hospitals in Islamabad{" "}
+                      All Medical Stores in Islamabad{" "}
                     </a>
                   </li>
                   <li>
                     <a href="https://www.marham.pk/hospitals/rawalpindi">
-                      All Hospitals in Rawalpindi
+                      All Medical Stores in Rawalpindi
                     </a>
                   </li>
                   <li>
                     <a href="https://www.marham.pk/hospitals/faisalabad">
-                      All Hospitals in Faisalabad
+                      All Medical Stores in Faisalabad
                     </a>
                   </li>
                   <li>
                     <a href="https://www.marham.pk/hospitals/multan">
-                      All Hospitals in Multan
+                      All Medical Stores in Multan
                     </a>
                   </li>
                   <li>
                     <a href="https://www.marham.pk/hospitals/peshawar">
-                      All Hospitals in Peshawar
+                      All Medical Stores in Peshawar
                     </a>
                   </li>
                   <li>
                     <a href="https://www.marham.pk/hospitals/quetta">
-                      All Hospitals in Quetta
+                      All Medical Stores in Quetta
                     </a>
                   </li>
                   <li>
                     <a href="https://www.marham.pk/hospitals/gujranwala">
-                      All Hospitals in Gujranwala
+                      All Medical Stores in Gujranwala
                     </a>
                   </li>
                   <li>
                     <a href="https://www.marham.pk/hospitals/sargodha">
-                      All Hospitals in Sargodha
+                      All Medical Stores in Sargodha
                     </a>
                   </li>
                   <li>
                     <a href="https://www.marham.pk/hospitals/abbottabad">
-                      All Hospitals in Abbottabad
+                      All Medical Stores in Abbottabad
                     </a>
                   </li>
                   <li>
                     <a href="https://www.marham.pk/hospitals/bahawalpur">
-                      All Hospitals in Bahawalpur
+                      All Medical Stores in Bahawalpur
                     </a>
                   </li>
                   <li>
                     <a href="https://www.marham.pk/hospitals/hyderabad">
-                      All Hospitals in Hyderabad
+                      All Medical Stores in Hyderabad
                     </a>
                   </li>
                   <li>
